@@ -28,3 +28,5 @@ This project involves performing an Exploratory Data Analysis (EDA) on the Seatt
    ```sh
    git clone https://github.com/tiwarygaurav/Data-Analyst-Project-Series.git
    cd Data-Analyst-Project-Series
+
+##Thank You
